@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshatha S M
 - 🌱 I’m currently pursuing my B.E. from NMAMIT ...
-- 
+  
 
 
 <!---
